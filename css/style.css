@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Kosugi+Maru');
+
+html, body{
+	margin: 0;
+	font-family: 'Kosugi Maru', sans-serif;
+	position: relative;
+	height: 100%;
+
+
+}
+.headerbg{
+background-image: url('../images/bg.jpg');
+background-size: cover;
+height: 80%;
+background-color: white;
+padding: 5%;
+}
+
+.h-left{
+	    margin-top: 11%;
+}
+.imgright{
+	width: 64%}
+
+.carousel-inner img {
+	margin: auto;
+	width: 30%
+
+}
+.card{
+	margin: 0 auto;
+	float: none;
+	margin-bottom: 10px;
+}
+.card:hover{
+	    box-shadow: 10px 10px 5px grey;
+}
+.imgd{
+	height: 64px;
+}
+.footer{
+	background: #FFB6C1;
+	color: #FFFFFF;
+
+}
+.needhelp{
+	margin-top: 10px;
+}
+.footer button{
+	color: #FFB6C1;
+	background: #FFFFFF;
+	border-radius: 25px;
+	border: none;
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 240px;
+    height: 60px;
+    margin-top: 10px;
+}
+.footer button:hover{
+	box-shadow: 5px 5px 2px grey;
+}
+.footer2{
+	background: black;
+	color: #FFFFFF;
+		margin-top: 10px;
+	margin-bottom: 20px;
+	margin: 0px;
+}
+.brand{
+	font-size: 80px;
+	}
+.brand img{
+	height: 130px;
+    margin-right: 5px;
+    margin-bottom: 16px;
+}
